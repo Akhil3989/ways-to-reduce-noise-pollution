@@ -1,0 +1,16 @@
+html, body {
+    margin: 100;
+    padding: 100;
+    font-family: sans-serif;
+    }
+.image{
+    width:700px; /* Adjust this value as needed */
+        height:500px; /* Adjust this value as needed */
+        padding-right:auto;
+        padding-left:auto;
+        padding-top:auto ;
+}
+body {
+        background: linear-gradient(to right, #ADD8E6, #D3ECBD);
+
+      }
